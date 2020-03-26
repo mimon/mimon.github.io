@@ -1,0 +1,8 @@
+<map id="Ogre::StagingTextureBufferImpl" name="Ogre::StagingTextureBufferImpl">
+<area shape="rect" id="node1" title="This implementation can be used by all RenderSystem APIs except D3D11, which is why this implementati..." alt="" coords="214,152,422,177"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_g_l3_plus_staging_texture.html" title=" " alt="" coords="5,225,204,251"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_metal_staging_texture.html" title=" " alt="" coords="228,225,408,251"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_n_u_l_l_staging_texture.html" title=" " alt="" coords="433,225,614,251"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_staging_texture.html" title="A StagingTexture is an intermediate texture that can be read and be written from both CPU &amp; GPU." alt="" coords="244,79,392,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="260,5,376,31"/>
+</map>

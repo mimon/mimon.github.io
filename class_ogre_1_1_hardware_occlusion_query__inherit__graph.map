@@ -1,0 +1,7 @@
+<map id="Ogre::HardwareOcclusionQuery" name="Ogre::HardwareOcclusionQuery">
+<area shape="rect" id="node1" title="This is a abstract class that that provides the interface for the query class for hardware occlusion." alt="" coords="170,75,381,100"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_d3_d11_hardware_occlusion_query.html" title="This is a class that is the DirectX9 implementation of hardware occlusion testing." alt="" coords="434,5,649,44"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_d3_d9_hardware_occlusion_query.html" title="This is a class that is the DirectX9 implementation of hardware occlusion testing." alt="" coords="437,68,646,107"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_g_l3_plus_hardware_occlusion_query.html" title="This is a class that is the base class of the query class for hardware occlusion." alt="" coords="429,131,654,169"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,75,122,100"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ogre::Box" name="Ogre::Box">
+<area shape="rect" id="node1" title="Structure used to define a box in a 3&#45;D integer space." alt="" coords="20,5,101,31"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_pixel_box.html" title=" " alt="" coords="5,79,116,104"/>
+</map>

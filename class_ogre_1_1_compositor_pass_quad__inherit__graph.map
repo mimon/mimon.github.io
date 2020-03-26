@@ -1,0 +1,5 @@
+<map id="Ogre::CompositorPassQuad" name="Ogre::CompositorPassQuad">
+<area shape="rect" id="node1" title="Implementation of CompositorPass This implementation will render a fullscreen triangle/quad to the Re..." alt="" coords="5,152,194,177"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_compositor_pass.html" title="Abstract class for compositor passes." alt="" coords="22,79,178,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="30,5,170,31"/>
+</map>

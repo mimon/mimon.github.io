@@ -1,0 +1,6 @@
+<map id="Ogre::MetalAsyncTextureTicket" name="Ogre::MetalAsyncTextureTicket">
+<area shape="rect" id="node1" title="See AsyncTextureTicket." alt="" coords="17,152,223,177"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_async_texture_ticket.html" title="In Ogre 2.2 reading data from GPU back to CPU is asynchronous." alt="" coords="33,79,207,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,5,85,31"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_texture_gpu_listener.html" title=" " alt="" coords="109,5,283,31"/>
+</map>

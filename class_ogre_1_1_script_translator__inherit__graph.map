@@ -1,0 +1,28 @@
+<map id="Ogre::ScriptTranslator" name="Ogre::ScriptTranslator">
+<area shape="rect" id="node1" title="This class translates script AST (abstract syntax tree) into Ogre resources." alt="" coords="197,592,349,617"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_compositor_load_action_translator.html" title=" " alt="" coords="412,5,605,44"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_compositor_pass_translator.html" title=" " alt="" coords="401,68,617,93"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_compositor_render_target_view_translator.html" title=" " alt="" coords="405,117,612,156"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_compositor_shadow_map_repeat_translator.html" title=" " alt="" coords="408,180,609,219"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_compositor_shadow_map_target_translator.html" title=" " alt="" coords="408,243,609,281"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_compositor_shadow_map_target_type_translator.html" title=" " alt="" coords="408,305,609,344"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_compositor_store_action_translator.html" title=" " alt="" coords="411,368,606,407"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_compositor_target_translator.html" title=" " alt="" coords="397,431,620,456"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_compositor_texture_base_translator.html" title=" " alt="" coords="408,480,609,519"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_gpu_program_translator.html" title=" " alt="" coords="412,543,606,568"/>
+<area shape="rect" id="node16" href="$class_ogre_1_1_hlms_translator.html" title=" " alt="" coords="435,592,583,617"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_material_translator.html" title=" " alt="" coords="426,641,591,667"/>
+<area shape="rect" id="node18" href="$class_ogre_1_1_particle_affector_translator.html" title=" " alt="" coords="405,691,613,716"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_particle_emitter_translator.html" title=" " alt="" coords="406,740,611,765"/>
+<area shape="rect" id="node20" href="$class_ogre_1_1_particle_system_translator.html" title=" " alt="" coords="405,789,612,815"/>
+<area shape="rect" id="node21" href="$class_ogre_1_1_pass_translator.html" title=" " alt="" coords="435,839,583,864"/>
+<area shape="rect" id="node22" href="$class_ogre_1_1_r_t_shader_1_1_s_g_script_translator.html" title="This class responsible for translating core features of the RT Shader System for Ogre material script..." alt="" coords="419,888,599,927"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1_shared_params_translator.html" title=" " alt="" coords="405,951,612,976"/>
+<area shape="rect" id="node24" href="$class_ogre_1_1_technique_translator.html" title=" " alt="" coords="419,1000,598,1025"/>
+<area shape="rect" id="node25" href="$class_ogre_1_1_texture_source_translator.html" title=" " alt="" coords="407,1049,611,1075"/>
+<area shape="rect" id="node26" href="$class_ogre_1_1_texture_unit_translator.html" title=" " alt="" coords="416,1099,601,1124"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,592,149,617"/>
+<area shape="rect" id="node12" href="$class_ogre_1_1_compositor_node_translator.html" title=" " alt="" coords="668,431,886,456"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_compositor_shadow_node_translator.html" title=" " alt="" coords="674,480,881,519"/>
+<area shape="rect" id="node14" href="$class_ogre_1_1_compositor_workspace_translator.html" title=" " alt="" coords="681,543,874,581"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Ogre::ImageCodec" name="Ogre::ImageCodec">
+<area shape="rect" id="node1" title="Codec specialized in images." alt="" coords="150,152,284,177"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_d_d_s_codec.html" title="Codec specialized in loading DDS (Direct Draw Surface) images." alt="" coords="5,225,130,251"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_e_x_r_codec.html" title="Codec specialized in loading OpenEXR high dynamic range images." alt="" coords="155,225,279,251"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_free_image_codec.html" title="Codec specialized in images loaded using FreeImage." alt="" coords="303,225,465,251"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_codec.html" title="Abstract class that defines a &#39;codec&#39;." alt="" coords="169,79,266,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="173,5,262,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ogre::WorkQueue::Response" name="Ogre::WorkQueue::Response">
+<area shape="rect" id="node1" title="General purpose response structure." alt="" coords="5,79,202,104"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="62,5,145,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Ogre::ForwardClustered" name="Ogre::ForwardClustered">
+<area shape="rect" id="node1" title="Implementation of Clustered Forward Shading." alt="" coords="104,152,268,177"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_forward_plus_base.html" title="ForwardPlusBase." alt="" coords="5,79,169,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="47,5,127,31"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_uniform_scalable_task.html" title="A uniform task is a highly parallelizable task that can be divided in many threads where all threads ..." alt="" coords="193,79,376,104"/>
+</map>

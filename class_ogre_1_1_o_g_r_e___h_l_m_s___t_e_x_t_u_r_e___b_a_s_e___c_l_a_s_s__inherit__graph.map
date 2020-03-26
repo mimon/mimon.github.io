@@ -1,0 +1,7 @@
+<map id="Ogre::OGRE_HLMS_TEXTURE_BASE_CLASS" name="Ogre::OGRE_HLMS_TEXTURE_BASE_CLASS">
+<area shape="rect" id="node1" title="This is not a regular header, therefore it has no include guards." alt="" coords="163,152,375,191"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_hlms_datablock.html" title="An hlms datablock contains individual information about a specific material." alt="" coords="5,79,153,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="39,5,119,31"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_const_buffer_pool_user.html" title=" " alt="" coords="177,79,360,104"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_texture_gpu_listener.html" title=" " alt="" coords="384,79,559,104"/>
+</map>

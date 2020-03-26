@@ -1,0 +1,5 @@
+<map id="Ogre::TextureFrameControllerValue" name="Ogre::TextureFrameControllerValue">
+<area shape="rect" id="node1" title="Predefined controller value for getting / setting the frame number of a texture layer." alt="" coords="5,165,204,204"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_controller_value.html" title=" " alt="" coords="30,79,179,117"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="51,5,159,31"/>
+</map>

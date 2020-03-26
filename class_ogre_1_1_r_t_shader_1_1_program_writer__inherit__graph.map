@@ -1,0 +1,8 @@
+<map id="Ogre::RTShader::ProgramWriter" name="Ogre::RTShader::ProgramWriter">
+<area shape="rect" id="node1" title="Base class interface for shader program writers." alt="" coords="209,107,421,132"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_r_t_shader_1_1_c_g_program_writer.html" title="CG target language writer implementation." alt="" coords="485,5,683,44"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_r_t_shader_1_1_g_l_s_l_e_s_program_writer.html" title="GLSL ES target language writer implementation." alt="" coords="469,68,699,107"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_r_t_shader_1_1_g_l_s_l_program_writer.html" title="GLSL target language writer implementation." alt="" coords="478,131,690,169"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_r_t_shader_1_1_h_l_s_l_program_writer.html" title="HLSL target language writer implementation." alt="" coords="479,193,689,232"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,107,161,132"/>
+</map>

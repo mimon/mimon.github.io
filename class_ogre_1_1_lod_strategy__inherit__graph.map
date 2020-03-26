@@ -1,0 +1,10 @@
+<map id="Ogre::LodStrategy" name="Ogre::LodStrategy">
+<area shape="rect" id="node1" title="Strategy for determining level of detail." alt="" coords="126,83,256,108"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_distance_lod_strategy_base.html" title="Level of detail strategy based on distance from camera." alt="" coords="310,55,523,80"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_pixel_count_lod_strategy_base.html" title="Abstract base class for level of detail strategy based on pixel count approximations from bounding sp..." alt="" coords="304,111,529,136"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,83,78,108"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_distance_lod_box_strategy.html" title="Level of detail strategy based on distance from camera to an object&#39;s bounding box." alt="" coords="587,5,792,31"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_distance_lod_sphere_strategy.html" title="Level of detail strategy based on distance from camera to an object&#39;s bounding sphere." alt="" coords="577,55,802,80"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_absolute_pixel_count_lod_strategy.html" title=" " alt="" coords="602,104,777,143"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_screen_ratio_pixel_count_lod_strategy.html" title=" " alt="" coords="592,167,788,205"/>
+</map>

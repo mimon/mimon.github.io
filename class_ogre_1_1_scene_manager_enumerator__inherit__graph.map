@@ -1,0 +1,5 @@
+<map id="Ogre::SceneManagerEnumerator" name="Ogre::SceneManagerEnumerator">
+<area shape="rect" id="node1" title="Enumerates the SceneManager classes available to applications." alt="" coords="97,92,316,117"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_singleton.html" title=" " alt="" coords="5,5,221,44"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="245,12,355,37"/>
+</map>

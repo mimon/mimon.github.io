@@ -1,0 +1,51 @@
+<map id="Ogre::IdObject" name="Ogre::IdObject">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1129,113,1155"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_bone.html" title="Class representing a Bone in the join hierarchy of a skeleton." alt="" coords="243,475,333,500"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_compositor_node.html" title="Compositor nodes are the core subject of compositing." alt="" coords="209,524,367,549"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_compositor_workspace.html" title="A compositor workspace is the main interface to render into an RT, be it a RenderWindow or an RTT (Re..." alt="" coords="192,573,385,599"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_movable_object.html" title="Abstract class defining a movable object in a scene." alt="" coords="214,623,362,648"/>
+<area shape="rect" id="node34" href="$class_ogre_1_1_node.html" title="Class representing a general&#45;purpose node an articulated scene graph." alt="" coords="243,1104,333,1129"/>
+<area shape="rect" id="node39" href="$class_ogre_1_1_parallax_corrected_cubemap_base.html" title=" " alt="" coords="161,1153,415,1179"/>
+<area shape="rect" id="node42" href="$class_ogre_1_1_scene_manager.html" title="Manages the organisation and rendering of a &#39;scene&#39; i.e." alt="" coords="214,1227,362,1252"/>
+<area shape="rect" id="node47" href="$class_ogre_1_1_vct_lighting.html" title=" " alt="" coords="226,1276,350,1301"/>
+<area shape="rect" id="node48" href="$class_ogre_1_1_vct_material.html" title=" " alt="" coords="225,1325,351,1351"/>
+<area shape="rect" id="node49" href="$class_ogre_1_1_vct_voxelizer.html" title=" " alt="" coords="222,1375,354,1400"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_compositor_shadow_node.html" title="Shadow Nodes are special nodes (not to be confused with." alt="" coords="485,5,691,31"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_decal.html" title=" " alt="" coords="542,55,634,80"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_frustum.html" title="A frustum represents a pyramid, capped at the near and far end which is used to represent either a vi..." alt="" coords="534,104,641,129"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_internal_cubemap_probe.html" title=" " alt="" coords="490,153,686,179"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_item.html" title="Defines an instance of a discrete, movable object based on a Mesh." alt="" coords="546,203,630,228"/>
+<area shape="rect" id="node12" href="$class_ogre_1_1_light.html" title="Representation of a dynamic light source in the scene." alt="" coords="544,252,631,277"/>
+<area shape="rect" id="node14" href="$class_ogre_1_1_manual_object.html" title=" " alt="" coords="518,301,658,327"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_movable_plane.html" title="Definition of a Plane that may be attached to a node, and the derived details of it retrieved simply." alt="" coords="516,351,659,376"/>
+<area shape="rect" id="node16" href="$class_ogre_1_1_null_entity.html" title=" " alt="" coords="530,400,645,425"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_particle_system.html" title="Class defining particle system based special effects." alt="" coords="514,449,661,475"/>
+<area shape="rect" id="node18" href="$class_ogre_1_1_portal_base.html" title="PortalBase &#45; Base class to Portal and AntiPortal classes." alt="" coords="526,499,650,524"/>
+<area shape="rect" id="node21" href="$class_ogre_1_1_rectangle2_d.html" title=" " alt="" coords="520,548,656,573"/>
+<area shape="rect" id="node22" href="$class_ogre_1_1v1_1_1_billboard_chain.html" title="Allows the rendering of a chain of connected billboards." alt="" coords="505,597,671,623"/>
+<area shape="rect" id="node24" href="$class_ogre_1_1v1_1_1_billboard_set.html" title="A collection of billboards (faces which are always facing the given direction) with the same (default..." alt="" coords="512,647,664,672"/>
+<area shape="rect" id="node25" href="$class_ogre_1_1v1_1_1_entity.html" title="Defines an instance of a discrete, movable object based on a Mesh." alt="" coords="531,696,644,721"/>
+<area shape="rect" id="node26" href="$class_ogre_1_1v1_1_1_manual_object.html" title="Class providing a much simplified interface to generating manual objects with custom geometry." alt="" coords="507,745,669,771"/>
+<area shape="rect" id="node27" href="$class_ogre_1_1v1_1_1_overlay.html" title="Represents a layer which is rendered on top of the &#39;normal&#39; scene contents." alt="" coords="525,795,651,820"/>
+<area shape="rect" id="node28" href="$class_ogre_1_1v1_1_1_rectangle2_d.html" title="Allows the rendering of a simple 2D rectangle This class renders a simple 2D rectangle; this rectangl..." alt="" coords="509,844,666,869"/>
+<area shape="rect" id="node29" href="$class_ogre_1_1v1_1_1_simple_renderable.html" title="Simple implementation of MovableObject and Renderable for single&#45;part custom objects." alt="" coords="493,893,683,919"/>
+<area shape="rect" id="node31" href="$class_ogre_1_1v1_1_1_static_geometry_1_1_region.html" title="The details of a topological region which is the highest level of partitioning for this class." alt="" coords="502,943,674,981"/>
+<area shape="rect" id="node32" href="$class_ogre_1_1_voxel_visualizer.html" title=" " alt="" coords="514,1005,662,1031"/>
+<area shape="rect" id="node33" href="$class_ogre_1_1_wire_aabb.html" title="Helper class to display the Aabb of a MovableObject as lines." alt="" coords="529,1055,646,1080"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_camera.html" title="A viewpoint from which the scene will be rendered." alt="" coords="801,104,907,129"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_p_c_z_light.html" title="Specialized version of Ogre::Light which caches which zones the light affects." alt="" coords="797,252,911,277"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_anti_portal.html" title="AntiPortal datastructure for occlusion culling." alt="" coords="796,473,912,499"/>
+<area shape="rect" id="node20" href="$class_ogre_1_1_portal.html" title="Portal datastructure for connecting zones." alt="" coords="808,523,901,548"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1v1_1_1_ribbon_trail.html" title="Subclass of BillboardChain which automatically leaves a trail behind one or more Node instances." alt="" coords="781,597,928,623"/>
+<area shape="rect" id="node30" href="$class_ogre_1_1v1_1_1_wire_bounding_box.html" title="Allows the rendering of a wireframe bounding box." alt="" coords="761,893,948,919"/>
+<area shape="rect" id="node35" href="$class_ogre_1_1_scene_node.html" title="Class representing a node in the scene graph." alt="" coords="524,1104,652,1129"/>
+<area shape="rect" id="node36" href="$class_ogre_1_1_bsp_scene_node.html" title="Specialisation of SceneNode for the BspSceneManager." alt="" coords="779,1055,930,1080"/>
+<area shape="rect" id="node37" href="$class_ogre_1_1_octree_node.html" title="Specialized SceneNode that is customized for working within an Octree." alt="" coords="789,1104,919,1129"/>
+<area shape="rect" id="node38" href="$class_ogre_1_1_p_c_z_scene_node.html" title=" " alt="" coords="777,1153,932,1179"/>
+<area shape="rect" id="node40" href="$class_ogre_1_1_parallax_corrected_cubemap.html" title=" " alt="" coords="476,1153,699,1179"/>
+<area shape="rect" id="node41" href="$class_ogre_1_1_parallax_corrected_cubemap_auto.html" title=" " alt="" coords="463,1203,713,1228"/>
+<area shape="rect" id="node43" href="$class_ogre_1_1_bsp_scene_manager.html" title="Specialisation of the SceneManager class to deal with indoor scenes based on a BSP tree." alt="" coords="502,1252,674,1277"/>
+<area shape="rect" id="node44" href="$class_ogre_1_1_default_scene_manager.html" title="Default scene manager." alt="" coords="492,1301,683,1327"/>
+<area shape="rect" id="node45" href="$class_ogre_1_1_octree_scene_manager.html" title="Specialized SceneManager that divides the geometry into an octree in order to facilitate spatial quer..." alt="" coords="493,1351,682,1376"/>
+<area shape="rect" id="node46" href="$class_ogre_1_1_p_c_z_scene_manager.html" title="Specialized SceneManager that uses Portal&#45;Connected&#45;Zones to divide the scene spatially." alt="" coords="500,1400,676,1425"/>
+</map>

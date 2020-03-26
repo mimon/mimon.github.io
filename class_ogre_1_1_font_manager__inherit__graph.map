@@ -1,0 +1,7 @@
+<map id="Ogre::FontManager" name="Ogre::FontManager">
+<area shape="rect" id="node1" title="Manages Font resources, parsing .fontdef files and generally organising them." alt="" coords="183,152,321,177"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_resource_manager.html" title="Defines a generic resource handler." alt="" coords="60,79,228,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_script_loader.html" title="Abstract class defining the interface used by classes which wish to perform script loading to define ..." alt="" coords="5,5,139,31"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="163,5,270,31"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_singleton.html" title=" " alt="" coords="252,79,468,104"/>
+</map>

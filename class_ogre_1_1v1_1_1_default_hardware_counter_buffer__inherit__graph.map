@@ -1,0 +1,6 @@
+<map id="Ogre::v1::DefaultHardwareCounterBuffer" name="Ogre::v1::DefaultHardwareCounterBuffer">
+<area shape="rect" id="node1" title="Specialisation of HardwareCounterBuffer for emulation." alt="" coords="8,239,188,277"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1v1_1_1_hardware_counter_buffer.html" title="Specialisation of HardwareBuffer for a counter buffer." alt="" coords="5,152,190,191"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1v1_1_1_hardware_buffer.html" title="Abstract class defining common features of hardware buffers." alt="" coords="11,79,184,104"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="55,5,141,31"/>
+</map>

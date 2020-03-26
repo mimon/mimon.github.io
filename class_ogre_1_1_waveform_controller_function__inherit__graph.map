@@ -1,0 +1,5 @@
+<map id="Ogre::WaveformControllerFunction" name="Ogre::WaveformControllerFunction">
+<area shape="rect" id="node1" title="Predefined controller function based on a waveform." alt="" coords="5,165,182,204"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_controller_function.html" title=" " alt="" coords="10,79,177,117"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="40,5,148,31"/>
+</map>

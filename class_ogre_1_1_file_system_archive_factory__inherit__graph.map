@@ -1,0 +1,6 @@
+<map id="Ogre::FileSystemArchiveFactory" name="Ogre::FileSystemArchiveFactory">
+<area shape="rect" id="node1" title="Specialisation of ArchiveFactory for FileSystem files." alt="" coords="77,152,290,177"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_archive_factory.html" title="Abstract factory class, archive codec plugins can register concrete subclasses of this." alt="" coords="110,79,257,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_factory_obj.html" title=" " alt="" coords="5,5,196,31"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="220,5,314,31"/>
+</map>

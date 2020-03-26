@@ -1,0 +1,4 @@
+<map id="Ogre::Volume::OctreeNode" name="Ogre::Volume::OctreeNode">
+<area shape="rect" id="node1" title="A node in the volume octree." alt="" coords="5,79,187,104"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="55,5,138,31"/>
+</map>

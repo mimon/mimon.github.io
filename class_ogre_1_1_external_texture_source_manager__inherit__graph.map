@@ -1,0 +1,5 @@
+<map id="Ogre::ExternalTextureSourceManager" name="Ogre::ExternalTextureSourceManager">
+<area shape="rect" id="node1" title="Singleton Class which handles the registering and control of texture plugins." alt="" coords="79,92,272,131"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_singleton.html" title=" " alt="" coords="5,5,180,44"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="204,12,312,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Ogre::Grid2DPageStrategy" name="Ogre::Grid2DPageStrategy">
+<area shape="rect" id="node1" title="Page strategy which loads new pages based on a regular 2D grid." alt="" coords="5,152,187,177"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_page_strategy.html" title="Defines the interface to a strategy class which is responsible for deciding when Page instances are r..." alt="" coords="26,79,166,104"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="55,5,137,31"/>
+</map>

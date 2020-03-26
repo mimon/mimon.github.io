@@ -1,0 +1,7 @@
+<map id="Ogre::ParallaxCorrectedCubemapAuto" name="Ogre::ParallaxCorrectedCubemapAuto">
+<area shape="rect" id="node1" title=" " alt="" coords="132,165,382,191"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_parallax_corrected_cubemap_base.html" title=" " alt="" coords="19,92,273,117"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_id_object.html" title=" " alt="" coords="5,12,113,37"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_compositor_workspace_listener.html" title=" " alt="" coords="138,5,331,44"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_frame_listener.html" title="A interface class defining a listener which can be used to receive notifications of frame events." alt="" coords="297,92,441,117"/>
+</map>

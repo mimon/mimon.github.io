@@ -1,0 +1,5 @@
+<map id="Ogre::Profiler" name="Ogre::Profiler">
+<area shape="rect" id="node1" title="The profiler allows you to measure the performance of your code." alt="" coords="125,79,225,104"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_singleton.html" title=" " alt="" coords="5,5,185,31"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="209,5,301,31"/>
+</map>

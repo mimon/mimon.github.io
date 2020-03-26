@@ -1,0 +1,4 @@
+<map id="Ogre::D3D9DeviceManager" name="Ogre::D3D9DeviceManager">
+<area shape="rect" id="node1" title="Device manager interface." alt="" coords="5,79,191,104"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="45,5,152,31"/>
+</map>

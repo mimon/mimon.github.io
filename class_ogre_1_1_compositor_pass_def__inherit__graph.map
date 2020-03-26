@@ -1,0 +1,12 @@
+<map id="Ogre::CompositorPassDef" name="Ogre::CompositorPassDef">
+<area shape="rect" id="node1" title="Interface to abstract all types of pass definitions (." alt="" coords="193,192,370,217"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_compositor_pass_clear_def.html" title=" " alt="" coords="429,5,638,31"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_compositor_pass_compute_def.html" title=" " alt="" coords="418,55,649,80"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_compositor_pass_depth_copy_def.html" title=" " alt="" coords="438,104,630,143"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_compositor_pass_mipmap_def.html" title=" " alt="" coords="422,167,646,192"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_compositor_pass_quad_def.html" title=" " alt="" coords="429,216,638,241"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_compositor_pass_scene_def.html" title=" " alt="" coords="426,265,641,291"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_compositor_pass_stencil_def.html" title=" " alt="" coords="425,315,642,340"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_compositor_pass_uav_def.html" title=" " alt="" coords="433,364,634,389"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,192,145,217"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ogre::ShadowVolumeExtrudeProgram" name="Ogre::ShadowVolumeExtrudeProgram">
+<area shape="rect" id="node1" title="Static class containing source for vertex programs for extruding shadow volumes." alt="" coords="5,79,202,117"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="41,5,167,31"/>
+</map>

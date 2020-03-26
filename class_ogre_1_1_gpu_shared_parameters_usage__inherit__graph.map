@@ -1,0 +1,4 @@
+<map id="Ogre::GpuSharedParametersUsage" name="Ogre::GpuSharedParametersUsage">
+<area shape="rect" id="node1" title="This class records the usage of a set of shared parameters in a concrete set of GpuProgramParameters." alt="" coords="5,79,201,117"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="42,5,164,31"/>
+</map>

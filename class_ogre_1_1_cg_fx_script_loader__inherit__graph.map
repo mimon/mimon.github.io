@@ -1,0 +1,6 @@
+<map id="Ogre::CgFxScriptLoader" name="Ogre::CgFxScriptLoader">
+<area shape="rect" id="node1" title="Manages Overlay objects, parsing them from .overlay files and storing a lookup library of them." alt="" coords="205,92,371,117"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_singleton.html" title=" " alt="" coords="5,5,197,44"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_script_loader.html" title="Abstract class defining the interface used by classes which wish to perform script loading to define ..." alt="" coords="221,12,355,37"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="379,12,517,37"/>
+</map>
